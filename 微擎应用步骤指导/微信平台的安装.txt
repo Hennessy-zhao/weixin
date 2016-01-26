@@ -1,0 +1,9 @@
+微信平台的安装-----Hennessy-zhao
+
+1)在网上下载最新的install.php文件，文件详见网址 http://www.we7.cc/
+2)在xampp/htdocs里面建立一个文件夹，如we,将install.php放在w文件夹we里面
+3)打开浏览器，输入localhost/we/install.php，按照指示一步一步安装完毕
+4)在参数配置时，选择离线安装
+5)数据库主机：localhost,表前缀不要变化，其他的地方按照自己实际情况安装
+
+
